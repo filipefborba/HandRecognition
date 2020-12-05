@@ -3,6 +3,14 @@
 ### Franklin W. Olin College of Engineering
 ### Data Science, Prof. Allen Downey
 
+---
+
+#### Disclaimer
+
+This project is not mantained and can contain conceptual errors. Feel free to use and contribute, but I'm not responsible for any damage if you just copy stuff from here.
+Also, I highly recommend taking a look at this repo https://github.com/ageron/handson-ml2 before starting your own Machine Learning project.
+
+---
 
 Machine Learning problems and algorithms are getting more and more attention over the years. Not only it is very useful for a variety of real-life problems, it is very efficient to automate processes that use data. It is commonly used for tasks such as classification, recognition, detection and predictions. The basic idea is to use data to produce a model capable of returning an output. This output may give a right answer with a new input or produce predictions towards the known data.
 
